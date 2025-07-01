@@ -1,6 +1,8 @@
 ### Hello there.
 
 Currently working on a bunch of hobby-projects. Mostly involving IRL-streaming and reverse-engineering peripherals that would improve that.
+
+- [Twitter](https://twitter.com/spillmaker_)
 <!--
 **Spillmaker/Spillmaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
